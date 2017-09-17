@@ -5,7 +5,7 @@ IT uses AWS and React
 
 ##Technologies used
 
-Brew
+Brew hi
 GIT
 GITHUB
 SSH
