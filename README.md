@@ -5,7 +5,10 @@ IT uses AWS and React
 
 ##Technologies used
 
-Brew hi
+Brew
 GIT
 GITHUB
 SSH
+fontawesome
+google fonts
+CSS
